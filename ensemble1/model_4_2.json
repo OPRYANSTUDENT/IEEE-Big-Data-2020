@@ -1,0 +1,11 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/home/opryan90/IEEE-Big-Data-2020/image.png", 
+ "objects": [ 
+  {"class_id":3, "name":"D40", "relative_coordinates":{"center_x":0.921021, "center_y":0.284696, "width":0.106659, "height":0.171102}, "confidence":0.084225}, 
+  {"class_id":2, "name":"D20", "relative_coordinates":{"center_x":0.478637, "center_y":0.833617, "width":0.406867, "height":0.205135}, "confidence":0.864204}, 
+  {"class_id":1, "name":"D10", "relative_coordinates":{"center_x":0.307220, "center_y":0.825656, "width":0.074823, "height":0.023439}, "confidence":0.084871}
+ ] 
+}
+]

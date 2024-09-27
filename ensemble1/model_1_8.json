@@ -1,0 +1,9 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/home/opryan90/IEEE-Big-Data-2020/image.png", 
+ "objects": [ 
+  {"class_id":2, "name":"D20", "relative_coordinates":{"center_x":0.480263, "center_y":0.848226, "width":0.363502, "height":0.203603}, "confidence":0.745938}
+ ] 
+}
+]

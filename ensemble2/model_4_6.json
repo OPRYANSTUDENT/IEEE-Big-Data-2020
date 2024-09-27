@@ -1,0 +1,14 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/home/opryan90/IEEE-Big-Data-2020/image.png", 
+ "objects": [ 
+  {"class_id":3, "name":"D40", "relative_coordinates":{"center_x":0.509880, "center_y":0.541239, "width":0.221696, "height":0.173743}, "confidence":0.252928}, 
+  {"class_id":2, "name":"D20", "relative_coordinates":{"center_x":0.661305, "center_y":0.659103, "width":0.518998, "height":0.634842}, "confidence":0.089932}, 
+  {"class_id":3, "name":"D40", "relative_coordinates":{"center_x":0.661305, "center_y":0.659103, "width":0.518998, "height":0.634842}, "confidence":0.119643}, 
+  {"class_id":3, "name":"D40", "relative_coordinates":{"center_x":0.465832, "center_y":0.671113, "width":0.102863, "height":0.097610}, "confidence":0.085267}, 
+  {"class_id":2, "name":"D20", "relative_coordinates":{"center_x":0.874894, "center_y":0.286079, "width":0.252321, "height":0.292251}, "confidence":0.188412}, 
+  {"class_id":2, "name":"D20", "relative_coordinates":{"center_x":0.552386, "center_y":0.452808, "width":0.893240, "height":0.638197}, "confidence":0.104033}
+ ] 
+}
+]
